@@ -1,0 +1,1 @@
+NOTION_SCOPES = ["user"]
